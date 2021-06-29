@@ -1,0 +1,32 @@
+{
+  "name": "lotus",
+  "version": "1.0.0",
+  "description": "Automation Server for API Test",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "systemjs": "^6.10.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": "git+https://github.com/tridunghonhan/lotus.git",
+  "keywords": [
+    "Automation",
+    "Server",
+    "API",
+    "Test"
+  ],
+  "author": "Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tridunghonhan/lotus/issues"
+  },
+  "homepage": "https://github.com/tridunghonhan/lotus#readme"
+}
