@@ -8,7 +8,7 @@
     - Login
     - send a POST request to Lotus
         - Header: login Token
-        - Body: a <TestCase> data
+        - Body: a <TestCase/> data
 5. Responses:
     - 200: create success
     - 400: invalid request, testcase Name existed.
