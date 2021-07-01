@@ -102,8 +102,8 @@
     - Description
     - **Mock** configuration
     - An HTTP call to trigger testing
-    - Expected Behavior includes
-        - epxected response's header 
+    - **Expected_Behavior**
+        - expected response's header 
         - expected response's body
         - expected response http status code
         - expected latency
