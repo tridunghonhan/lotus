@@ -1,4 +1,4 @@
-import {StringExpectation} from './expectation'
+import {StringExpectation} from './expectations'
 
 describe("Expectations: expect a string ", () => {
     test('expect a string is not empty', (done) => {
